@@ -1,0 +1,14 @@
+layout_spectrum: 0.8160774861462414
+typography_spectrum: 0.8501137061975896
+color:
+  brandStrength: 0.7603618677239865
+  lightness: 0.5376148968935013
+  saturation: 0.3700512726791203
+  rhythmicContrast: 0.9852236926089972
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: 2manydots
